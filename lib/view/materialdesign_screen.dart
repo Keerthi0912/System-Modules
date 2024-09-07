@@ -75,7 +75,7 @@ class MaterialDesignScreen extends StatelessWidget {
               style: Theme.of(context).textTheme.bodyMedium,
             ),
             Text(
-              'bodyeSmall',
+              'bodySmall',
               style: Theme.of(context).textTheme.bodySmall,
             ),
             Text(

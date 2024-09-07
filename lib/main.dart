@@ -36,8 +36,6 @@ class Lesson2App extends StatelessWidget{
   }
 
 }
-
-
 Widget f1(BuildContext context) {
   return  StartScreen();
 }
